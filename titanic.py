@@ -1,7 +1,6 @@
 # Programa feito para ler o CSV contido na página:
 # https://github.com/pandas-dev/pandas/blob/master/doc/data/titanic.csv
 
-#OBS.: Cara, essa prova...
 from urllib.request import urlopen
 import matplotlib.pyplot as plt
 import pandas as pd
